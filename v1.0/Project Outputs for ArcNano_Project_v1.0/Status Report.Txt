@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ArcNano_PCB.PcbDoc]
+   Generated File[ArcNano_PCB-RoundHoles.TXT]
+   Generated File[ArcNano_PCB-SlotHoles.TXT]
+   Generated File[ArcNano_PCB.LDP]
+   Generated File[ArcNano_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:48:25 On 21.11.2021
