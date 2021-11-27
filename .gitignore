@@ -1,3 +1,6 @@
+# Hide all temp files starts "~$"
+**/~$*.*
+
 # Hide files of Altium Designer
 History*
 *Project Logs*
@@ -5,9 +8,6 @@ History*
 *.htm
 *.PrjPcbStructure
 __Previews*
-
-# Hide all temp files starts "~$"
-**/~$*.*
 
 # Hide Releases. For local store.
 Releases/
